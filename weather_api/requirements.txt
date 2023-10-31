@@ -1,0 +1,4 @@
+# This is used for to import all the dependancies.
+# 1.Flask
+# 2.Gunicorn
+# 3.requests
